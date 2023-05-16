@@ -1,0 +1,9 @@
+streamlit==1.9.0
+streamlit_option_menu==0.3.2
+pandas==1.2.4
+requests==2.25.1
+backports.functools_lru_cache==1.6.4
+urllib3==1.26.4
+pillow==8.2.0
+regex==2021.4.4
+protobuf~=3.19.0
